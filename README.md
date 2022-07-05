@@ -8,6 +8,6 @@
  [You can see Collapse here](https://alice2205.github.io/collapse_js/)
  
  <div id="header" align="center">
-  <img src="https://github.com/alice2205/collapse_js/blob/main/collapse.gif" width="500"/>
+  <img src="https://github.com/alice2205/collapse_js/blob/main/img.gif" width="500"/>
 </div>
 
