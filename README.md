@@ -6,7 +6,7 @@ Used:
 ✔️ HTML   
 ✔️ CSS   
 ✔️ JavaScript   
-❎  ~~Framevorks~~
+❎  ~~Frameworks~~
 
  Displays collapsible content panels for presenting information.
  Made adaptive layout for different screen resolutions: 375px, 768px, 1280px, 1440px, 1920px.
