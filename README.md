@@ -1,9 +1,15 @@
 ﻿## Description
  
- collapse_html_css_js
+ Collapse_html_css_js
+ 
  Displays collapsible content panels for presenting information.
  Made adaptive layout for different screen resolutions: 375px, 768px, 1280px, 1440px, 1920px.
  
+ [You can see Collapse here](https://alice2205.github.io/collapse_js/)
  
- ![image](https://github.com/alice2205/collapse_js/master//collapse.gif)
+ 
+ 
+ <div id="header" align="center">
+  <img src="https://github.com/alice2205/collapse_js/blob/main/collapse.gif" width="500"/>
+</div>
 
