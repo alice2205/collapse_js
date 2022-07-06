@@ -6,7 +6,7 @@ Used:
 ✔️ HTML   
 ✔️ CSS   
 ✔️ JavaScript   
-❎  ~~Frameworks~~
+❎  ~~Frameworks~~  
 ❎  ~~Libraries~~
 
  Displays collapsible content panels for presenting information.
